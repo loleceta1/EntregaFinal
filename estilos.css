@@ -86,10 +86,10 @@ h6 {
 }
 
 .article1 {
-  width: 100vh !important;
+  width: 70vh !important;
   -ms-flex-line-pack: center !important;
       align-content: center !important;
-  margin: 35vh !important;
+  height: 70vh !important;
 }
 
 .article11 {
@@ -97,6 +97,7 @@ h6 {
   -ms-flex-line-pack: center !important;
       align-content: center !important;
   margin: 35vh !important;
+  background-color: black !important;
 }
 
 .form-group {
@@ -105,8 +106,8 @@ h6 {
 }
 
 .contenido1 {
-  margin-top: 5vh !important;
-  margin-bottom: 5vh !important;
+  margin-top: 2vh !important;
+  margin-bottom: 2vh !important;
 }
 
 .container1 {
@@ -116,7 +117,7 @@ h6 {
 }
 
 .parallax {
-  height: 25vh !important;
+  height: 30vh !important;
 }
 
 h5 {
@@ -142,12 +143,8 @@ h5 {
   height: 100% !important;
 }
 
-.container1 {
-  margin-top: 5vh !important;
-}
-
 .row1 {
-  height: 20vh !important;
+  height: 15vh !important;
   width: 60vh !important;
   margin: 30vh !important;
   background-color: transparent !important;

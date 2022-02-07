@@ -13,6 +13,7 @@ body{
     height: 80vh !important;
     background-image: url(./img/technology-3435575_1280.jpg);
 }
+
 .navbar{
     background-color: transparent !important;
     height: 12vh !important;
@@ -79,14 +80,16 @@ height: 25vh !important;
 
 
 .article1{
-    width: 100vh !important;
+    width: 70vh !important;
     align-content: center !important;
-    margin: 35vh !important;
+    height: 70vh !important;
+  
 }
 .article11{
     width: 100% !important;
     align-content: center !important;
     margin: 35vh !important;
+    background-color: $color1 !important;
 
 }
 
@@ -95,15 +98,15 @@ height: 25vh !important;
     width: 50vh !important;
 }
 .contenido1{
-    margin-top: 5vh !important;
-    margin-bottom: 5vh !important;
+    margin-top: 2vh !important;
+    margin-bottom: 2vh !important;
 }
 .container1{
     align-content: center !important;
     margin-left: 15vh !important;
 }
 .parallax{
-    height: 25vh !important;
+    height: 30vh !important;
 }
 
 
@@ -124,11 +127,9 @@ h5{
     height: 100% !important;
   }
   
-.container1{
-    margin-top: 5vh !important;
-}
+
 .row1{
-    height: 20vh !important;
+    height: 15vh !important;
     width: 60vh !important;
     margin: 30vh !important;
     background-color: transparent !important;
